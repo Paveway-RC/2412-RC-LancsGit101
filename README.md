@@ -1,2 +1,2 @@
 # 2412-RC-LancsGit101
-GitPod 2: Gitpod Harder
+Gitpod 2: Gitpod Harder
